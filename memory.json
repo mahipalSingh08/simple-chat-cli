@@ -1,0 +1,54 @@
+[
+  {
+    "role": "system",
+    "content": "You are helpful"
+  },
+  {
+    "role": "user",
+    "content": "Hello"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello! How can I assist you today?"
+  },
+  {
+    "role": "user",
+    "content": "HI my name is mahipal , who are you ?"
+  },
+  {
+    "role": "assistant",
+    "content": "Hi Mahipal! I'm an AI language model here to help you with information, answer questions, or assist with anything you need. What can I do for you today?"
+  },
+  {
+    "role": "user",
+    "content": "that is nice, what is openai sdk"
+  },
+  {
+    "role": "assistant",
+    "content": "The OpenAI SDK (Software Development Kit) refers to a collection of tools, libraries, and documentation that developers can use to integrate OpenAI's models and services into their applications. This includes access to language models like GPT-3 and GPT-4, as well as other AI functionality.\n\nKey features of the OpenAI SDK typically include:\n\n1. **API Access**: The SDK allows developers to make API calls to OpenAI's models for tasks like text generation, summarization, translation, and more.\n\n2. **Ease of Use**: The SDK usually provides a simple and user-friendly interface for interacting with the API, making it easier for developers to implement AI functionalities without needing to handle low-level HTTP requests directly.\n\n3. **Documentation**: Comprehensive documentation that guides developers through installation, setup, and usage, including code examples and best practices.\n\n4. **Support for Multiple Languages**: Depending on the SDK, it may support multiple programming languages (like Python, JavaScript, etc.), enabling developers to use it in a wide range of applications.\n\n5. **Configuration Options**: Developers can often configure parameters for generating text, such as temperature, maximum tokens, and more, to customize the AI's behavior.\n\nTo get started with the OpenAI SDK, you can check the official OpenAI website or their GitHub repository, which typically contains instructions on how to install the SDK and use it in your projects."
+  },
+  {
+    "role": "user",
+    "content": "HEllo"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello again! How can I help you today?"
+  },
+  {
+    "role": "user",
+    "content": "my name is mahipal"
+  },
+  {
+    "role": "assistant",
+    "content": "Nice to meet you, Mahipal! How can I assist you today?"
+  },
+  {
+    "role": "user",
+    "content": "what is my name"
+  },
+  {
+    "role": "assistant",
+    "content": "Your name is Mahipal. How can I assist you further?"
+  }
+]
