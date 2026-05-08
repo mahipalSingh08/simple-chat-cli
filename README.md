@@ -1,5 +1,7 @@
 ## 💬 Simple Chat CLI with Memory (OpenAI SDK)
 
+<img width="1599" height="984" alt="image" src="https://github.com/user-attachments/assets/8b3b93e5-c84c-44aa-8550-dc747366c3b0" />
+
 A beginner-friendly yet practical AI chatbot built using OpenAI SDK and Python.
 
 This project demonstrates how to build a **context-aware conversational system** using:
