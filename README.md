@@ -72,7 +72,10 @@ pip install -r requirements.txt
 4️⃣ Add API Key
 
 Create a .env file:
+go to https://platform.openai.com/api-keys
+create api key then pase as below
 OPENAI_API_KEY=your_api_key_here
+(take example of .env.example)
 
 5️⃣ Run Chatbot
 python chat.py
